@@ -1,2 +1,2 @@
-# secprog-assignments
-Assignments for secprog
+First Last — USD MS Cybersecurity Engineering
+
